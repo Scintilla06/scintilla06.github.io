@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am An Yan, an undergraduate student at the Institute for Interdisciplinary Information Sciences (IIIS, a.k.a. Yao Class), Tsinghua University. I am currently a Research Assistant supervised by Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/info/1313/4458.htm).
+I am An Yan, an undergraduate student at the Institute for Interdisciplinary Information Sciences (IIIS, also known as Yao Class), Tsinghua University. I am currently a Research Assistant supervised by Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/info/1313/4458.htm).
 
 My research originates from solving complex optimization problems with Large Language Models, which has sparked a profound interest in the foundation models themselves. I am now dedicated to advancing the field by exploring effective post-training and fine-tuning paradigms, striving to build the next generation of LLMs with superior reasoning and generalization capabilities. Feel free to reach out if you want to chat about research or life.
