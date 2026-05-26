@@ -30,4 +30,4 @@ I am An Yan, an undergraduate student at the Institute for Interdisciplinary Inf
 
 My research originates from solving complex optimization problems with Large Language Models, which has sparked a profound interest in the foundation models themselves. I am now dedicated to advancing the field by exploring effective post-training and fine-tuning paradigms, striving to build the next generation of LLMs with superior reasoning and generalization capabilities.
 
-Previously, I worked with Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/info/1313/4458.htm) at Tsinghua. I currently work with Prof. [Hao Peng](https://haopeng-nlp.github.io/) at UIUC. Feel free to reach out if you want to chat about research or life.
+Previously, I worked with Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/info/1313/4458.htm) at Tsinghua on LLM-based agents and optimization. Feel free to reach out if you want to chat about research or life.
