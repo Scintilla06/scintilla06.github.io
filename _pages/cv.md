@@ -1,13 +1,17 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
+nav_order: 4
 nav_url: /assets/pdf/CV.pdf
-cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: A current one-page CV.
 ---
+
+<p>
+  <a class="btn btn-primary" href="{{ '/assets/pdf/CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-file-pdf"></i> Download CV (PDF)
+  </a>
+</p>
+
+<p>The PDF contains my education, research experience, publications, awards, and skills.</p>

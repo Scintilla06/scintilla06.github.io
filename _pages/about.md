@@ -2,32 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.E. Student at IIIS, Tsinghua University
+subtitle: Undergraduate Researcher, IIIS, Tsinghua University
 
 profile:
   align: right
   image: ya.jpg
-  image_circular: false # crops the image to make it circular
+  alt: An Yan
+  image_circular: false
   more_info: >
-    <p>Tsinghua University</p>
-    <p>Beijing, China</p>
+    <p>IIIS, Tsinghua University<br />Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am An Yan, an undergraduate student at the Institute for Interdisciplinary Information Sciences (IIIS, also known as Yao Class), Tsinghua University. I work with Prof. [Hao Peng](https://haopeng-nlp.github.io/) at the University of Illinois Urbana-Champaign (UIUC) on reinforcement learning for LLM post-training, and will be visiting on-site starting Summer 2026.
+I am an undergraduate researcher at the Institute for Interdisciplinary Information Sciences (IIIS, Yao Class), Tsinghua University. My research interests are **LLM post-training, reasoning and agents, LLM systems**.
 
-My research originates from solving complex optimization problems with Large Language Models, which has sparked a profound interest in the foundation models themselves. I am now dedicated to advancing the field by exploring effective post-training and fine-tuning paradigms, striving to build the next generation of LLMs with superior reasoning and generalization capabilities.
+I currently work with Prof. [Hao Peng](https://haopeng-nlp.github.io/) at the University of Illinois Urbana-Champaign on multi-task reinforcement learning and sequential on-policy distillation for LLM post-training. I study how task order, rollout-state distributions, and parameter-update geometry relate to cross-task transfer, interference, and long-horizon learning.
 
-Previously, I worked with Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/info/1313/4458.htm) at Tsinghua on LLM-based agents and optimization. Feel free to reach out if you want to chat about research or life.
+Previously, I worked with Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/info/1313/4458.htm) at Tsinghua University on LLM agents for large-scale mixed-integer linear programming and combinatorial optimization.
+
+I am seeking Spring 2027 research opportunities in LLM post-training, reasoning, and systems.
+
+## News
+
+- **2026** — Started a research internship with Prof. Hao Peng on LLM post-training.
+- **2025** — Our LLM-driven large-neighborhood-search work received an **ICML 2025 Spotlight**.
