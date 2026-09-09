@@ -211,7 +211,6 @@ exclude:
   - assets/json/table_data.json
   - assets/plotly/demo.html
   - assets/pdf/CV_AnYan.jpg
-  - assets/pdf/academic_transcript.pdf
   - assets/rendercv/
   - assets/video/
   - package.json
