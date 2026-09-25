@@ -30,7 +30,12 @@ Previously, I worked with Prof. [Hua Xu](https://www.cs.tsinghua.edu.cn/csen/inf
 
 I am seeking Spring 2027 research opportunities in LLM post-training, reasoning, and systems.
 
+## Selected publication
+
+- **Process-Aware LNS for Large-Scale MILP via Context-Enhanced Fine-Tuned LLM-driven Selector.** First author; **accepted to NeurIPS 2026**. The work studies process-aware, LLM-guided operator selection for large-scale mixed-integer optimization.
+
 ## News
 
+- **2026** — First-author paper accepted to **NeurIPS 2026**.
 - **2026** — Started a research internship with Prof. Hao Peng on LLM post-training.
 - **2025** — Our LLM-driven large-neighborhood-search work received an **ICML 2025 Spotlight**.
